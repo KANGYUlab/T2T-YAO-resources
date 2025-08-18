@@ -78,9 +78,6 @@ T2T‑YAO is a telomere‑to‑telomere diploid human assembly for the individua
   | YAO_dipo | SPRQ | [download](https://download.cncb.ac.cn/gsa-human/HRA011075/HRR2695328/HRR2695328.bam) |
   | YAO_dipo | Element | [download](https://download.cncb.ac.cn/gsa-human/HRA011075/HRR2695329/HRR2695329.bam) |
 
-<p align="right"><a href="#t2t-yao-resources">Back to top ↑</a></p>
-
-<hr/>
 
 ### T2T-YAO v1.1
 
