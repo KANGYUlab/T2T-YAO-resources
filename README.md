@@ -34,7 +34,7 @@ T2T‑YAO is a telomere‑to‑telomere diploid human assembly for the individua
       </tr>
     </thead>
     <tbody>
-      <tr>abc..789
+      <tr>
         <td>YAO_dipo</td>
         <td>ONT</td>
         <td>OXFORD_NANOPORE PromethION</td>
@@ -82,7 +82,7 @@ T2T‑YAO is a telomere‑to‑telomere diploid human assembly for the individua
 
   | File | Description | Size | URL |
   | --- | --- | --- | --- |
-  | t2t-yao-v2.0.gff.gz | Gene annotation for maternal haplotype (GFF3 format, compressed) | 45 MB | [download](https://github.com/your-username/t2t-yao-resources/releases/latest/download/t2t-yao-v2.0.gff.gz) |
+  | t2t-yao-v2.0.gff.gz | Gene annotation for maternal haplotype (GFF3 format, compressed) | 45 MB | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/t2t-yao-v2.0.gff.gz) |
 
 - **Annotation statistics**
 
