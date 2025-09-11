@@ -80,10 +80,10 @@ T2T‑YAO is a telomere‑to‑telomere diploid human assembly for the individua
 
 - **Gene annotation files**
 
-  | File | Description | Size | URL |
+  | File | Description | URL |
   | --- | --- | --- | --- |
-  | yao-v2.0.mat.gff.gz | Gene annotation for maternal haplotype (GFF3, compressed) | 45 MB | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.mat.gff.gz) |
-  | yao-v2.0.pat.gff.gz | Gene annotation for paternal haplotype (GFF3, compressed) | 45 MB | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.pat.gff.gz) |
+  | yao-v2.0.mat.gff.gz | Gene annotation for maternal haplotype (GFF3, compressed) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.mat.gff.gz) |
+  | yao-v2.0.pat.gff.gz | Gene annotation for paternal haplotype (GFF3, compressed) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.pat.gff.gz) |
 
 
   The annotation covers all 22 autosomes and the X/Y chromosome for both haplotypes, providing comprehensive gene models for downstream analysis and comparison.
