@@ -98,7 +98,6 @@ T2T‑YAO is a telomere‑to‑telomere diploid human assembly for the individua
 
   The annotation covers all 22 autosomes and the X chromosome for the maternal haplotype (hap1), providing comprehensive gene models for downstream analysis and comparison. **Note**: Currently only the maternal haplotype annotation is available; paternal haplotype annotation will be released in future updates.
 
-<p align="right"><a href="#t2t-yao-resources">Back to top ↑</a></p>
 
 <hr/>
 
