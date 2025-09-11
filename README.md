@@ -97,7 +97,7 @@ T2T‑YAO is a telomere‑to‑telomere diploid human assembly for the individua
   - **Non-coding RNAs**: 27,746 long non-coding RNAs (lncRNAs)
   - **Other features**: 16,870 pseudogenes, 1,184 snoRNAs, 485 tRNAs, 218 snRNAs, 76 rRNAs
 
-  The annotation covers all 22 autosomes and the X chromosome for both haplotypes, providing comprehensive gene models for downstream analysis and comparison.
+  The annotation covers all 22 autosomes and the X/Y chromosome for both haplotypes, providing comprehensive gene models for downstream analysis and comparison.
 
 
 
