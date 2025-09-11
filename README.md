@@ -83,19 +83,8 @@ T2T‑YAO is a telomere‑to‑telomere diploid human assembly for the individua
   | File | Description | Size | URL |
   | --- | --- | --- | --- |
   | yao-v2.0.mat.gff.gz | Gene annotation for maternal haplotype (GFF3, compressed) | 45 MB | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.mat.gff.gz) |
-  | yao-v2.0.pat.gff.gz | Gene annotation for paternal haplotype (GFF3, compressed) | 256 KB | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.pat.gff.gz) |
+  | yao-v2.0.pat.gff.gz | Gene annotation for paternal haplotype (GFF3, compressed) | 45 MB | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.pat.gff.gz) |
 
-- **Annotation statistics**
-
-  The T2T-YAO v2.0 annotation includes comprehensive gene models for the **maternal (mat)** and **paternal (pat)** haplotypes across all chromosomes:
-
-  - **Total features**: 3,972,898 annotated features
-  - **Genes**: 40,071 protein-coding and non-coding genes
-  - **Transcripts**: 129,250 mRNA transcripts
-  - **Exons**: 2,081,954 exons
-  - **CDS**: 1,659,394 coding sequences
-  - **Non-coding RNAs**: 27,746 long non-coding RNAs (lncRNAs)
-  - **Other features**: 16,870 pseudogenes, 1,184 snoRNAs, 485 tRNAs, 218 snRNAs, 76 rRNAs
 
   The annotation covers all 22 autosomes and the X/Y chromosome for both haplotypes, providing comprehensive gene models for downstream analysis and comparison.
 
