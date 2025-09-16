@@ -82,8 +82,8 @@ T2T‑YAO is a telomere‑to‑telomere diploid human assembly for the individua
 
   | File | Description |  URL |
   | --- | --- | --- | 
-  | yao-v2.0.mat.gff.gz | Gene annotation for maternal haplotype (GFF3, compressed) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.mat.gff.gz) |
-  | yao-v2.0.pat.gff.gz | Gene annotation for paternal haplotype (GFF3, compressed) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.pat.gff.gz) |
+  | yao-v2.0.mat.gtf.gz | Gene annotation for maternal haplotype (GTF, compressed) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.mat.gtf.gz) |
+  | yao-v2.0.pat.gtf.gz | Gene annotation for paternal haplotype (GTF, compressed) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.pat.gtf.gz) |
   | yao-v2.0.mat.immuannot.gtf.gz | HLA and KIR annotations (maternal; GTF) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.mat.immuannot.gtf.gz) |
   | yao-v2.0.pat.immuannot.gtf.gz | HLA and KIR annotations (paternal; GTF) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.pat.immuannot.gtf.gz) |
   | yao-v2.0.mat.annotVDJ.gff.gz | VDJ region annotations (maternal; GFF3). Contributed by Heng Li and Ying Zhou (Harvard Medical School) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.mat.annotVDJ.gff.gz) |
