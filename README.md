@@ -86,8 +86,8 @@ T2T‑YAO is a telomere‑to‑telomere diploid human assembly for the individua
   | yao-v2.0.pat.gff.gz | Gene annotation for paternal haplotype (GFF3, compressed) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.pat.gff.gz) |
   | yao-v2.0.mat.immuannot.gtf.gz | HLA and KIR annotations (maternal; GTF) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.mat.immuannot.gtf.gz) |
   | yao-v2.0.pat.immuannot.gtf.gz | HLA and KIR annotations (paternal; GTF) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.pat.immuannot.gtf.gz) |
-  | yao-v2.0.mat.annotVDJ.gff.gz | VDJ region annotations (maternal; GFF3). Contributed by Heng Li and Ying Zhou (Harvard Medical School) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.mat.annotVDJ.gff.gz) |
-  | yao-v2.0.pat.annotVDJ.gff.gz | VDJ region annotations (paternal; GFF3). Contributed by Heng Li and Ying Zhou (Harvard Medical School) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.pat.annotVDJ.gff.gz) |
+  | yao-v2.0.mat.annotVDJ.gff.gz | IG and TCR annotations (maternal; GFF3). Contributed by Heng Li and Ying Zhou (Harvard Medical School) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.mat.annotVDJ.gff.gz) |
+  | yao-v2.0.pat.annotVDJ.gff.gz | IG and TCR annotations (paternal; GFF3). Contributed by Heng Li and Ying Zhou (Harvard Medical School) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.pat.annotVDJ.gff.gz) |
 
 
   The annotation covers all 22 autosomes and the X/Y chromosome for both haplotypes, providing comprehensive gene models for downstream analysis and comparison.
