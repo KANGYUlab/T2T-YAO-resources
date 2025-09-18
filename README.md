@@ -179,7 +179,7 @@ All data is released to the public domain (CC0 1.0). See [LICENSE](./LICENSE).
 If you use T2T‑YAO resources, please cite the following references:
 
 1. He, Y., Chu, Y., Guo, S., Hu, J., Li, R., Zheng, Y., Ma, X., Du, Z., Zhao, L., Yu, W., et al. (2023). T2T‑YAO: A Telomere‑to‑telomere Assembled Diploid Reference Genome for Han Chinese. Genomics, Proteomics & Bioinformatics. doi: https://doi.org/10.1016/j.gpb.2023.08.001
-2. Yanan Chu, Zhuo Huang, Changjun Shao, Shuming Guo, Xinyao Yu, Jian Wang, Yabin Tian, Jing Chen, Ran Li, Yukun He, Jun Yu, Jie Huang, Zhancheng Gao, Yu Kang.  Approaching an Error-Free Diploid Human Genome. bioRxiv 2025.08.01.667781; doi: https://doi.org/10.1101/2025.08.01.667781
+2. Yanan Chu, Zhuo Huang, Changjun Shao, Shuming Guo, Yiji Yang, Xinyao Yu, Jian Wang, Yabin Tian, Jing Chen, Ran Li, Yukun He, Jun Yu, Jie Huang, Zhancheng Gao, Yu Kang.  Approaching an Error-Free Diploid Human Genome Assembly of East Asian Origin. bioRxiv 2025.08.01.667781; doi: https://doi.org/10.1101/2025.08.01.667781
 
 ### Changelog
 
