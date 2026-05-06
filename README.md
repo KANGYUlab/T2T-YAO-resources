@@ -89,7 +89,7 @@ T2T‑YAO is a telomere‑to‑telomere diploid human assembly for the individua
   | yao-v2.0-gencode-chrM.gff.gz | GENCODE annotation for mitochondrial genome (GFF3, compressed) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0-gencode-chrM.gff.gz) |
   | yao-v2.0.mat.immuannot.gtf.gz | HLA and KIR annotations (maternal; GTF) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.mat.immuannot.gtf.gz) |
   | yao-v2.0.pat.immuannot.gtf.gz | HLA and KIR annotations (paternal; GTF) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.pat.immuannot.gtf.gz) |
-  | yao-v2.0.IMGT.gff3 | IG and TR annotations (GFF3). Contributed by IMGT | [download](https://github.com/KANGYUlab/T2T-YAO-resources/blob/main/yao-v2.0.IMGT.gff3) |
+  | yao-v2.0.IMGT.gff3 | IG and TR annotations (GFF3). Contributed by IMGT | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.IMGT.gff3) |
 
 
   The annotation covers all 22 autosomes and the X/Y chromosome for both haplotypes, providing comprehensive gene models for downstream analysis and comparison.
