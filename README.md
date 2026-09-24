@@ -168,6 +168,14 @@ T2T‑YAO is a telomere‑to‑telomere diploid human assembly for the individua
 
 ---
 
+### Additional annotation files
+
+| File | Description | URL |
+| --- | --- | --- |
+| YAO_cCREs_final.bed.gz | Candidate cis-regulatory elements (cCREs); gzip-compressed, tab-separated BED-like file with columns `chr`, `start`, `end`, `strand`, `name`, `length`, and `classification`. | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/YAO_cCREs_final.bed.gz) |
+
+The SHA-256 checksum of the uncompressed `YAO_cCREs_final.bed` is `78341084b4bb23c27a9361627f46e3a7498c3d2b011ea86b45a2f4695b4c1b81`.
+
 ### Issues
 
 Known issues are tracked in GitHub issues. If you find any errors in the latest version, please raise an issue. Your feedback will help us build more perfect genomic resources.
