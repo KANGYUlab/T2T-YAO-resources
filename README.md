@@ -10,7 +10,7 @@
 
 <br/>
 
-T2T‑YAO is a telomere‑to‑telomere diploid human assembly for the individual YAO, providing fully phased maternal (mat) and paternal (pat) haplotypes. The v2.0 release integrates ONT ultra‑long, PacBio Revio/HiFi, Element AVITI and Pore‑C sequencing, and distributes aligned BAMs for downstream benchmarking; v1.1 is the initial public release. Assembly evaluation leverages the SAS (Sufficient Alignment Support) framework to profile base‑level and structural errors across technologies ([SAS pipeline](https://github.com/KANGYUlab/sas-pipeline)). For additional background and methodology, see the T2T‑YAO preprint on bioRxiv ([link](https://www.biorxiv.org/content/10.1101/2025.08.01.667781v1.full)).
+T2T‑YAO is a telomere‑to‑telomere diploid human assembly for the individual YAO, providing fully phased maternal (mat) and paternal (pat) haplotypes. The v2.0 release integrates ONT ultra‑long, PacBio Revio/HiFi, Element AVITI and Pore‑C sequencing, and distributes aligned BAMs for downstream benchmarking; v1.1 is the initial public release. Assembly evaluation leverages the SAS (Sufficient Alignment Support) framework to profile base‑level and structural errors across technologies ([SAS pipeline](https://github.com/KANGYUlab/sas-pipeline)). For additional background and methodology, see the T2T‑YAO paper in The Innovation ([link](https://doi.org/10.1016/j.xinn.2026.101543)).
 
 <hr/>
 
@@ -91,6 +91,7 @@ T2T‑YAO is a telomere‑to‑telomere diploid human assembly for the individua
   | yao-v2.0.pat.immuannot.gtf.gz | HLA and KIR annotations (paternal; GTF) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.pat.immuannot.gtf.gz) |
   | yao-v2.0.IMGT.gff3 | IG and TR annotations (GFF3). Contributed by IMGT | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.IMGT.gff3) |
   | yao_matchrY_preciseannofix.gff3.gz | a high-precision annotation for the maternal haplotype (mat) of T2T-YAO v2.0 generated using YAOBrige. | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao_matchrY_preciseannofix.gff3.gz) |
+  | yao_pat_preciseannofix.gff3.gz | A high-precision annotation for the paternal haplotype (pat) of T2T-YAO v2.0, corresponding to the maternal high-precision annotation above; covers chr1–chr22. | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao_pat_preciseannofix.gff3.gz) |
 
   The annotation covers all 22 autosomes and the X/Y chromosome for both haplotypes, providing comprehensive gene models for downstream analysis and comparison.
 
@@ -189,10 +190,11 @@ All data is released to the public domain (CC0 1.0). See [LICENSE](./LICENSE).
 If you use T2T‑YAO resources, please cite the following references:
 
 1. He, Y., Chu, Y., Guo, S., Hu, J., Li, R., Zheng, Y., Ma, X., Du, Z., Zhao, L., Yu, W., et al. (2023). T2T‑YAO: A Telomere‑to‑telomere Assembled Diploid Reference Genome for Han Chinese. Genomics, Proteomics & Bioinformatics. doi: https://doi.org/10.1016/j.gpb.2023.08.001
-2. Yanan Chu, Zhuo Huang, Changjun Shao, Shuming Guo, Yiji Yang, Xinyao Yu, Jian Wang, Yabin Tian, Jing Chen, Ran Li, Yukun He, Jun Yu, Jie Huang, Zhancheng Gao, Yu Kang.  Approaching an Error-Free Diploid Human Genome Assembly of East Asian Origin. bioRxiv 2025.08.01.667781; doi: https://doi.org/10.1101/2025.08.01.667781
+2. Yanan Chu, Zhuo Huang, Changjun Shao, Shuming Guo, Yiji Yang, Xinyao Yu, Yurong Luo, Jian Wang, Yabin Tian, Jing Chen, Ran Li, Yukun He, Stylianos E. Antonarakis, Jun Yu, Jie Huang, Zhancheng Gao, Yu Kang. (2026). Approaching an error-free diploid human genome using a support-based validation framework. The Innovation, 101543. doi: https://doi.org/10.1016/j.xinn.2026.101543
 
 ### Changelog
 
+- 2026-10: Added the paternal high-precision annotation corresponding to the maternal annotation and updated the citation to the published The Innovation paper.
 - 2025-08: T2T-YAO v2.0 release
 - 2023-08: T2T-YAO v1.1 release
 
