@@ -91,7 +91,7 @@ T2T‑YAO is a telomere‑to‑telomere diploid human assembly for the individua
   | yao-v2.0.pat.immuannot.gtf.gz | HLA and KIR annotations (paternal; GTF) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.pat.immuannot.gtf.gz) |
   | yao-v2.0.IMGT.gff3 | IG and TR annotations (GFF3). Contributed by IMGT | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.IMGT.gff3) |
   | yao_matchrY_preciseannofix.gff3.gz | a high-precision annotation for the maternal haplotype (mat) of T2T-YAO v2.0 generated using YAOBrige. | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao_matchrY_preciseannofix.gff3.gz) |
-  | yao_pat_preciseannofix.gff3.gz | A high-precision annotation for the paternal haplotype (pat) of T2T-YAO v2.0, corresponding to the maternal high-precision annotation above; covers chr1–chr22. | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao_pat_preciseannofix.gff3.gz) |
+  | yao_pat_preciseannofix.gff3.gz | A high-precision annotation for the paternal haplotype (pat) of T2T-YAO v2.0. | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao_pat_preciseannofix.gff3.gz) |
 
   The annotation covers all 22 autosomes and the X/Y chromosome for both haplotypes, providing comprehensive gene models for downstream analysis and comparison.
 
