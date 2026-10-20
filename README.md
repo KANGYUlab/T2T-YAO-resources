@@ -81,17 +81,15 @@ T2T‑YAO is a telomere‑to‑telomere diploid human assembly for the individua
 - **Gene annotation files**
 
   | File | Description |  URL |
-  | --- | --- | --- | 
-  | yao-v2.0.mat.gff.gz | Gene annotation for maternal haplotype (GFF3, compressed) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.mat.gff.gz) |
-  | yao-v2.0.pat.gff.gz | Gene annotation for paternal haplotype (GFF3, compressed) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.pat.gff.gz) |
+  | --- | --- | --- |
+  | yao_matchrY_preciseannofix.gff3.gz | a high-precision annotation for the maternal haplotype (mat) of T2T-YAO v2.0 generated using YAOBrige. | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao_matchrY_preciseannofix.gff3.gz) |
+  | yao_pat_preciseannofix.gff3.gz | A high-precision annotation for the paternal haplotype (pat) of T2T-YAO v2.0. | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao_pat_preciseannofix.gff3.gz) |
   | yao-v2.0-gencode-mat.gff.gz | GENCODE annotation for maternal haplotype (GFF3, compressed) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0-gencode-mat.gff.gz) |
   | yao-v2.0-gencode-pat.gff.gz | GENCODE annotation for paternal haplotype (GFF3, compressed) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0-gencode-pat.gff.gz) |
   | yao-v2.0-gencode-chrM.gff.gz | GENCODE annotation for mitochondrial genome (GFF3, compressed) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0-gencode-chrM.gff.gz) |
   | yao-v2.0.mat.immuannot.gtf.gz | HLA and KIR annotations (maternal; GTF) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.mat.immuannot.gtf.gz) |
   | yao-v2.0.pat.immuannot.gtf.gz | HLA and KIR annotations (paternal; GTF) | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.pat.immuannot.gtf.gz) |
   | yao-v2.0.IMGT.gff3 | IG and TR annotations (GFF3). Contributed by IMGT | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao-v2.0.IMGT.gff3) |
-  | yao_matchrY_preciseannofix.gff3.gz | a high-precision annotation for the maternal haplotype (mat) of T2T-YAO v2.0 generated using YAOBrige. | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao_matchrY_preciseannofix.gff3.gz) |
-  | yao_pat_preciseannofix.gff3.gz | A high-precision annotation for the paternal haplotype (pat) of T2T-YAO v2.0. | [download](https://github.com/KANGYUlab/T2T-YAO-resources/raw/main/yao_pat_preciseannofix.gff3.gz) |
 
   The annotation covers all 22 autosomes and the X/Y chromosome for both haplotypes, providing comprehensive gene models for downstream analysis and comparison.
 
